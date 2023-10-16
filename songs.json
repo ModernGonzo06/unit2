@@ -1,0 +1,90 @@
+{
+    "songs": [
+        {
+            "title": "Soy Peor",
+            "artist": "Bad Bunny",
+            "year": 2017,
+            "genres": [
+                "Latin Trap",
+                "Reggaeton"
+            ]
+        },
+        {
+            "title": "Ojitos Lindos",
+            "artist": "Bad Bunny, Bomba Estereo",
+            "year": 2022,
+            "genres": [
+                "Latin Urbano"
+            ]
+        },
+        {
+            "title": "Mia",
+            "artist": "Bad Bunny, Drake",
+            "year": 2018,
+            "genres": [
+                "Reggaeton",
+                "Hip-hop"
+            ]
+        },
+        {
+            "title": "God's Plan",
+            "artist": "Drake",
+            "year": 2018,
+            "genres": [
+                "Hip-hop",
+                "Rap"
+            ]
+        },
+        {
+            "title": "In My Feelings",
+            "artist": "Drake",
+            "year": 2018,
+            "genres": [
+                "Hip-hop",
+                "R&B"
+            ]
+        },
+        {
+            "title": "Hotline Bling",
+            "artist": "Drake",
+            "year": 2015,
+            "genres": [
+                "Hip-hop",
+                "Pop"
+            ]
+        },
+        {
+            "title": "Sand in My Boots",
+            "artist": "Morgan Wallen",
+            "year": 2021,
+            "genres": [
+                "Country"
+            ]
+        },
+        {
+            "title": "Whiskey Glasses",
+            "artist": "Morgan Wallen",
+            "year": 2018,
+            "genres": [
+                "Country"
+            ]
+        },
+        {
+            "title": "7 Summers",
+            "artist": "Morgan Wallen",
+            "year": 2020,
+            "genres": [
+                "Country"
+            ]
+        },
+        {
+            "title": "La Noche de Anoche",
+            "artist": "Bad Bunny, Rosalía",
+            "year": 2020,
+            "genres": [
+                "Reggaeton",
+                "Pop"
+            ]
+        }
+    ]
+}
